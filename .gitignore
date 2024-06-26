@@ -1,0 +1,14 @@
+*.cache
+*.resx
+*.sln
+*.suo
+*.rpt
+*.pdb
+*.dll
+*.resources
+*.exe
+*.AssemblyReference.cache
+*.manifest
+*.log
+DBapplication/obj
+DBapplication/bin
